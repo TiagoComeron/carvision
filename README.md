@@ -2,6 +2,8 @@
 
 College project for the web development class, with focus on PHP use with the framework Laravel to create an API using Laravel Sanctum.
 
+Developed by João Lucas Biglia and Tiago Comeron
+
 
 ## Installation
 
